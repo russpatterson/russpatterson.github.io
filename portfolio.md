@@ -29,6 +29,8 @@ VR workout game with companion apps in Unity
     <img src="/assets/Phone-Hero.webp" style="width: 40%;" alt="" />
 </div>
 
+<strong>[Co-wrote and played guitar on two original music tracks for the VR game](https://soundcloud.com/catapillar/sets/black-box-vr-playlist?si=4820fa8e3ace49b6bbb23b1e9a2434d4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)</strong>
+
 <strong>[Black Box VR Website](https://www.blackbox-vr.com/)</strong>
 
 Role: Technical Director
@@ -162,6 +164,8 @@ Role: Lead Programmer
     <img src="/assets/Time_Traveler.jpg" style="width: 50%; margin-right: 20px;" alt="" />
     <img src="/assets/traveler.jpg" style="width: 90%; margin-right: 20px;" alt="" />
 </div>
+
+<strong>[Original Music Track used in Time Traveler](https://soundcloud.com/catapillar/bill-and-russ-wah-wahless-backwards?si=4820fa8e3ace49b6bbb23b1e9a2434d4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)</strong>
 
 <strong>[Time Traveler article in Kotaku 2019](https://kotaku.com/segas-holographic-arcade-game-was-pretty-strange-1831884824)</strong>
 
