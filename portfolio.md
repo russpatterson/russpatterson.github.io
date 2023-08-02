@@ -89,7 +89,11 @@ Role: Senior Software Engineer
     <img src="/assets/SocomIIUSNavySeals.webp" style="width: 60%; margin-right: 20px;" alt="" />
     <img src="/assets/warhawk.jpg" style="width: 40%; margin-right: 20px;" alt="" />
     <img src="/assets/my-LBP.jpg" style="width: 80%;" alt="" />
-    
+</div>
+<div style="display: flex; align-items: center;">
+    <img src="/assets/4898644-singstar-playstation-3-front-cover.jpg" style="width: 50%; margin-right: 20px;" alt="" />
+    <img src="/assets/resistance.jpg" style="width: 67%; margin-right: 20px;" alt="" />
+    <img src="/assets/killzone-2-cover.jpg" style="width: 55%;" alt="" />
 </div>
 
 <strong>[Full Sony Credits available on Moby Games](https://www.mobygames.com/person/149016/russ-patterson/)</strong>
