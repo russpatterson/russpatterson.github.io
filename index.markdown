@@ -7,7 +7,13 @@ title: Russ Patterson
 
 Veteran game technology leader, AI product builder, and creative tools developer with more than 25 years of experience shipping games, building teams, and turning new technology into usable products.
 
-My current work is focused on **applied AI for games, creator tools, and controllable AI video** through [PlayCraft AI](https://playcraftai.com/). I am building **Shotmaker**, a more controllable AI filmmaking system, and **Daydreamer**, a short-form regenerative AI video showcase that explores music-driven rendering, feedback loops, and 3D-aware visual generation.
+## Current Work: PlayCraft AI
+
+[PlayCraft AI](/playcraft-ai/) is my current company and the main thing I am building now: applied AI for games, creator tools, and controllable AI video.
+
+I am building **Shotmaker**, a more controllable AI filmmaking system, and **Daydreamer**, a short-form regenerative AI video showcase that explores music-driven rendering, feedback loops, and 3D-aware visual generation.
+
+<strong><a href="https://playcraftai.com/">Visit PlayCraft AI</a></strong>
 
 ![Russ Patterson](/assets/russ_blue_cropped_2.jpg)
 
@@ -21,13 +27,17 @@ My current work is focused on **applied AI for games, creator tools, and control
 
 ## Links
 
-[PlayCraft AI](https://playcraftai.com/)
+[PlayCraft AI](/playcraft-ai/)
 
 [Daydreamer Video Clips](https://playcraftai.com/daydreamer-clips/)
 
 [LinkedIn Profile](https://www.linkedin.com/in/russpatterson/)
 
 [Game Portfolio](/portfolio.html)
+
+[New Level Software Memory Lane](/new-level-software/)
+
+[Custom LED Lighting Work](/custom-led-lighting/)
 
 ## Long Game History
 

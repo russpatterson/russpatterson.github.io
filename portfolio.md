@@ -8,19 +8,15 @@ title: Game Portfolio
 
 ---
 
-# Recent Work: AI, Games, and Creator Tools
-
-My recent work brings together game development, applied AI, technical leadership, and creator tools. After decades building games and game teams, I am now focused on practical AI systems for interactive media: tools that help designers, creators, and studios make better work faster.
-
----
-
-# PlayCraft AI
+# Current Work: PlayCraft AI
 
 <strong>[PlayCraft AI Website](https://playcraftai.com/)</strong>
 
+<strong>[PlayCraft AI overview on this site](/playcraft-ai/)</strong>
+
 Role: Founder
 
-PlayCraft AI is my consulting and product studio for applied AI in games and interactive media.
+PlayCraft AI is my current company and the main focus of my work now: applied AI for games, creator tools, and controllable AI video. After decades building games and game teams, I am focused on practical AI systems for interactive media: tools that help designers, creators, and studios make better work faster.
 
 The initial consulting focus was practical AI for game studios: improving player lifetime value, accelerating content workflows, giving designers better tools, and exploring where on-device models and studio data can become useful production systems.
 
@@ -104,6 +100,8 @@ Role: Founder and lead developer
 # Black Box VR
 
 VR workout game with companion apps in Unity
+
+<strong>[Custom LED lighting work](/custom-led-lighting/)</strong>
 <div style="display: flex; align-items: center;">
     <img src="/assets/Fire-Beam-Black-Box.webp" style="width: 80%; margin-right: 20px;" alt="" />
     <img src="/assets/Phone-Hero.webp" style="width: 40%;" alt="" />
@@ -199,11 +197,15 @@ Role: Web Technology Development Manager
 
 # New Level Software, Inc.
 
+<strong>[New Level Software memory-lane page](/new-level-software/)</strong>
+
 <strong>Road Rash Sega CD for Electronic Arts</strong>
 <div style="display: flex; align-items: center;">
     <img src="/assets/SEGA-CD-Road-Rash-NTSC-U-USA-front-2.jpg" style="width: 60%; margin-right: 20px;" alt="" />
     <img src="/assets/road_rash_sega_cd.jpg" style="width: 70%; margin-right: 20px;" alt="" />
 </div>
+
+<strong>[Courier Crisis memory page](/courier-crisis/)</strong>
 
 <strong>Courier Crisis for BMG Publishing</strong>
 <div style="display: flex; align-items: center;">

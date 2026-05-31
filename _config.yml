@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Russ Patterson Game Developer
+title: Russ Patterson - PlayCraft AI Founder
 email: russ@astrolablearning.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio of Russ Patterson, veteran game developer with over 25 years experience.  Explore my journey, projects, and insights into the ever-evolving world of game development.
+  Russ Patterson is a veteran game developer and founder of PlayCraft AI, building applied AI tools for games, creators, and controllable AI video.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -51,3 +51,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - playcraft-ai.md
+  - portfolio.md
+  - index.markdown
+  - custom-led-lighting.md
+  - new-level-software.md
