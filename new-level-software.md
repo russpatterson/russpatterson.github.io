@@ -93,6 +93,12 @@ This page is a memory-lane home for stories, links, memorabilia, screenshots, an
 - Old press, ads, disks, photos, and trade-show memories
 - What I learned before moving into larger game teams and platform work
 
+## Unshipped Beavis and Butt-Head Game
+
+After Courier Crisis and the Spider-Man demo for Activision, New Level Software worked on a Beavis and Butt-Head project that became our final game. It was canceled before shipping, but it was a memorable project, including getting to work with Mike Judge on the game.
+
+There is more of that story in this video from someone who interviewed me about unshipped 1990s retro games: [Beavis and Butt-Head unshipped game interview video](https://www.youtube.com/watch?v=yZmRkD1rk4s).
+
 ## Links
 
 - [Courier Crisis memory page](/courier-crisis/)

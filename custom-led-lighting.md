@@ -152,7 +152,7 @@ The largest thing I built was the internal lighting rig for the giant cube at Th
 
 ## AllSaints - Las Vegas Strip
 
-This was the AllSaints clothing light on the Las Vegas Strip, next to the Bellagio fountains on the side of the Cosmopolitan. It was a goat-skull light that flickered like an Edison bulb. In the sea of Las Vegas lights it was a small circle in a huge field of brightness, but it was there, and it ran for a long time.
+This was the AllSaints clothing light on the Las Vegas Strip, next to the Bellagio fountains on the side of the Cosmopolitan. It was a goat-skull light that flickered like an Edison bulb. In the sea of Las Vegas lights it was a small circle in a huge field of brightness, but it is still there running after all these years: my hand-built, hand-wired, rock-solid, thermal-resistant design, with my code still 100 feet off the ground in Las Vegas, flickering lights every night. Part of me is out there in Las Vegas every night, pounding out the pulse of flickering lights that city runs on. The store is still visible as a real location on Google Maps: [AllSaints at The Cosmopolitan of Las Vegas](https://maps.app.goo.gl/rzw4NjHQd4u3ZhiT9).
 
 <div class="led-feature">
   <img src="/assets/images/LED_DEMO/allsaints-cosmopolitan-las-vegas.jpg" alt="AllSaints goat skull light on the side of the Cosmopolitan in Las Vegas">
@@ -241,15 +241,6 @@ A lot of the work happened on the bench before it ever became an installation: h
     <p>One of the first hotel lights, built into a waterproof box inside a larger junction box, with heat sinks and wiring packed into the enclosure.</p>
   </section>
 
-  <section class="led-card">
-    <img src="/assets/images/LED_DEMO/acrylic-lens-glow-test-02.jpg" alt="High-power LEDs glowing through acrylic covers on a workbench">
-    <p>Bench testing the LEDs while silicone-glued acrylic weather covers cured on top of the heat sinks.</p>
-  </section>
-
-  <section class="led-card">
-    <img src="/assets/images/LED_DEMO/acrylic-lens-glow-test-03.jpg" alt="High-power LED bench test with acrylic covers">
-    <p>The intense glow from high-power LEDs with nowhere to go yet, burning color into the workbench.</p>
-  </section>
 
   <section class="led-card portrait">
     <img src="/assets/images/LED_DEMO/heatsink-led-lenses.jpg" alt="LED heat sink and lens optics">
@@ -279,7 +270,7 @@ A lot of the work happened on the bench before it ever became an installation: h
 
 ## CityWalk / Panda Inn Controller
 
-I also built a controller for a CityWalk project, likely Panda Inn at Universal CityWalk in Los Angeles. It was another practical embedded job: custom controller, enclosure, and a lot of field wiring that had to work in the real installation.
+I also built a controller for a CityWalk project, likely Panda Inn at Universal CityWalk in Los Angeles. It was another practical embedded job: custom controller, enclosure, and a lot of field wiring that had to work in the real installation. The light itself was huge, probably a long band of in-light around 30 feet or so, with a lot of LEDs and a lot of power. One of the practical problems was current fading across the chain, so we had to tap power into certain points along the run and get the power distribution right while still preserving the fade inside the light.
 
 <div class="led-feature">
   <img src="/assets/images/LED_DEMO/citywalk-panda-inn-controller.jpg" alt="CityWalk Panda Inn LED controller enclosure and wiring">
@@ -299,6 +290,29 @@ The boutique hotel work was a different kind of challenge: it had to look warm, 
   <section class="led-card portrait">
     <img src="/assets/images/LED_DEMO/sandcastle-inn-02.jpg" alt="Sandcastle Inn yellow accent lighting">
     <p>Yellow accent lighting for the hotel exterior.</p>
+  </section>
+</div>
+
+## Marina del Rey LED Installation
+
+The blue and white bench-test photos below were for the Marina del Rey lights. I was testing the LEDs while the silicone-glued acrylic weather covers cured on the heat sinks, with all that high-power light burning color into the workbench before it had a building to wash across. There is also a video here: [Marina del Rey LED lights on YouTube](https://www.youtube.com/watch?v=jwejw5C9Zy8).
+
+A fun story from that install: when we stayed there to check it out, the guy at the liquor store on the corner told me that sometimes homeless people would stand underneath those lights and pretend they were charging up.
+
+<div class="led-feature">
+  <img src="/assets/images/LED_DEMO/marina-del-rey-led.png" alt="Marina del Rey LED lighting installation video still">
+  <div class="led-caption">Video still from the Marina del Rey LED lighting installation.</div>
+</div>
+
+<div class="led-grid">
+  <section class="led-card">
+    <img src="/assets/images/LED_DEMO/acrylic-lens-glow-test-02.jpg" alt="Marina del Rey LED bench test with acrylic weather covers">
+    <p>Bench testing the Marina del Rey LEDs while silicone-glued acrylic weather covers cured on top of the heat sinks.</p>
+  </section>
+
+  <section class="led-card">
+    <img src="/assets/images/LED_DEMO/acrylic-lens-glow-test-03.jpg" alt="Marina del Rey high-power LED bench test">
+    <p>The intense blue and white glow from the Marina del Rey lights before they went into the field.</p>
   </section>
 </div>
 
